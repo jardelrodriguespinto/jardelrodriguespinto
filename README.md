@@ -1,11 +1,11 @@
-# Olá, eu sou um desenvolvedor apaixonado por tecnologia e atualmente estou estudando as seguintes tecnologias:
+### Olá, eu sou um desenvolvedor apaixonado por tecnologia e atualmente estou estudando as seguintes tecnologias:
 
 #### Spring Boot
-## Spring Data JPA
-## Spring Security
-## Java
-## MySQL
-## JavaScript
+#### Spring Data JPA
+#### Spring Security
+#### Java
+#### MySQL
+#### JavaScript
 Meu objetivo é aprimorar minhas habilidades e construir aplicações robustas e escaláveis.
 
 No meu perfil do Github, você pode encontrar projetos que desenvolvi utilizando as tecnologias mencionadas acima, além de outras que estou estudando. Também compartilho alguns códigos e estudos que faço durante meu processo de aprendizado.
