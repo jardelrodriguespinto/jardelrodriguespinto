@@ -1,4 +1,4 @@
-### Olá, eu sou um desenvolvedor apaixonado por tecnologia e atualmente estou estudando as seguintes tecnologias:
+###### Olá, eu sou um desenvolvedor apaixonado por tecnologia e atualmente estou estudando as seguintes tecnologias:
 
 #### Spring Boot
 #### Spring Data JPA
