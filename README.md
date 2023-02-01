@@ -5,7 +5,7 @@
 #### Spring Security
 #### Java
 #### MySQL
-#### JavaScript
+#### PostgreSQL
 Meu objetivo é aprimorar minhas habilidades e construir aplicações robustas e escaláveis.
 
 No meu perfil do Github, você pode encontrar projetos que desenvolvi utilizando as tecnologias mencionadas acima, além de outras que estou estudando. Também compartilho alguns códigos e estudos que faço durante meu processo de aprendizado.
