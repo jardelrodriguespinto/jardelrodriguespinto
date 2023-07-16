@@ -4,6 +4,10 @@
 #### Spring Data JPA
 #### Spring Security
 #### Java
+#### React
+#### HTML
+#### CSS
+#### Javascript
 #### MySQL
 #### PostgreSQL
 Meu objetivo é aprimorar minhas habilidades e construir aplicações robustas e escaláveis.
