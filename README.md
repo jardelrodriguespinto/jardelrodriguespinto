@@ -9,6 +9,7 @@
 #### CSS
 #### Javascript
 #### MySQL
+#### Flutter
 #### PostgreSQL
 Meu objetivo é aprimorar minhas habilidades e construir aplicações robustas e escaláveis.
 
