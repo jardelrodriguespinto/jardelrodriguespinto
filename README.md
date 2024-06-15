@@ -4,6 +4,8 @@
 #### Spring Data JPA
 #### Spring Security
 #### Java
+#### Hibernate
+#### JDBC
 #### React
 #### HTML
 #### CSS
