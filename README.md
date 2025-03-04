@@ -1,21 +1,18 @@
-#### Olá, eu sou um desenvolvedor apaixonado por tecnologia e atualmente estou estudando as seguintes tecnologias:
+Sou desenvolvedor Java e Full Stack com experiência em Spring Boot, MongoDB, Node.js, React, entre outras tecnologias. Apaixonado por resolver problemas complexos, criar soluções escaláveis e sempre em busca de aprender e implementar novas tecnologias.
 
-#### Spring Boot
-#### Spring Data JPA
-#### Spring Security
-#### Java
-#### Hibernate
-#### JDBC
-#### React
-#### HTML
-#### CSS
-#### Javascript
-#### MySQL
-#### Flutter
-#### PostgreSQL
-Meu objetivo é aprimorar minhas habilidades e construir aplicações robustas e escaláveis.
+📚 O que eu faço:
+Desenvolvimento de APIs robustas com Java e Spring Boot.
+Criação de sistemas e automações com Node.js, TypeScript.
+Construção de front-end interativo com Angular e React.
+Integração de sistemas e automação de processos.
+Desenvolvimento de soluções com Kubernetes para ambientes de produção e Docker.
+Projetos envolvendo RabbitMQ e APIs de pagamento.
+🛠️ Tecnologias que eu domino:
+Linguagens: Java, JavaScript, TypeScript, SQL, Python.
+Frameworks: Spring Boot, React, Angular, Node.js, Grammy, JSP, JSF.
+Ferramentas: Docker, Kubernetes, Git, Maven, MySQL, MongoDB, RabbitMQ.
+Metodologias: SOLID, Design Patterns, Clean Code, Test-Driven Development (TDD).
+🚀 O que eu busco:
+Atualmente, estou buscando desafios que me permitam crescer profissionalmente e aplicar meu conhecimento em desenvolvimento de software, integração de sistemas e arquitetura de soluções escaláveis. Estou sempre aberto a aprender e a trabalhar com tecnologias de ponta.
 
-No meu perfil do Github, você pode encontrar projetos que desenvolvi utilizando as tecnologias mencionadas acima, além de outras que estou estudando. Também compartilho alguns códigos e estudos que faço durante meu processo de aprendizado.
-
-Sinta-se à vontade para dar uma olhada em meus projetos e me dar feedback. Também estou sempre aberto a novas oportunidades de trabalho ou colaboração em projetos interessantes. 
-- 📫 How to reach me: email: jardelrodriguesp633@gmail.com and my linkedIn profile: https://www.linkedin.com/in/jardel-rodrigues-pinto-270198167/
+Se você tem alguma oportunidade interessante ou deseja conversar sobre um projeto, estou à disposição! 😃
